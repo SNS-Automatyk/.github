@@ -4,7 +4,7 @@
 > działające przy Wydziale Elektrycznym Politechniki Wrocławskiej.
 
 ## 🧠 Kim jesteśmy
-Koło naukowe „SNS Automatyk” to koło naukowe działające na Politechnice Wrocławskiej [automatyk.pwr.edu.pl](https://automatyk.pwr.edu.pl/)  
+Koło naukowe „SNS Automatyk” to koło naukowe działające na Politechnice Wrocławskiej 
 Naszymi obszarami zainteresowań są m.in.:
 
 - automatyka przemysłowa,
